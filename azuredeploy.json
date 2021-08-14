@@ -169,7 +169,7 @@
             },
             {
               "name": "WEBSITE_RUN_FROM_PACKAGE",
-              "value": "https://shibayan.blob.core.windows.net/azure-keyvault-letsencrypt/v3/latest.zip"
+              "value": "1"
             },
             {
               "name": "FUNCTIONS_EXTENSION_VERSION",
